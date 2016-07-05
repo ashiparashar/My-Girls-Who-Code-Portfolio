@@ -1,0 +1,18 @@
+/*heading text styling*/
+#title {
+	color: purple;
+	font-size: 70px;
+	font-style: bold;
+}
+
+/*about me styling*/
+#aboutMe {
+	color: green;
+	font-size:30px;
+	font-style: italic;
+}
+
+/*page background*/
+body {
+	background-color: powderblue; 
+}
